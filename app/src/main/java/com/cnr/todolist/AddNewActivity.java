@@ -39,11 +39,6 @@ public class AddNewActivity extends AppCompatActivity {
     Button btnUpdate;
     DatabaseReference databaseReference;
     FirebaseDatabase firebaseDatabase;
-
-
-    String[] countries={"India","Australia","West indies","indonesia","Indiana",
-            "South Africa","England","Bangladesh","Srilanka","singapore"};
-
     List<String> listKey;
 
     @Override
