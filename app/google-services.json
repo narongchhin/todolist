@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "717695720510",
+    "project_id": "cnrtodo",
+    "storage_bucket": "cnrtodo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717695720510:android:0f6ec1ff1acc27264d456f",
+        "android_client_info": {
+          "package_name": "com.cnr.todolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkctcpcZFRSrLjKwg-LAytSuWtDY4kEAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
